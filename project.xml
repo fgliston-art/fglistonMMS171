@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+	<project>
+		<title> Brawlfur </title>
+		<description> 
+			An anime-style 3D model made to test out curves for hair modeling, toon shading, and line art modifier for a 2D look.
+		</description>
+		<date> September ‎9, ‎2026 </date>
+	</project>
+	
+	<project>
+		<title> Day 2 Objects </title>
+		<description>
+			This is my output after following the Day 2 video of the YouTube series "Introduction to Blender Series - For Absolute Beginners" which focused on creating objects in Object Editing mode. 
+			Despite being a series made to be done daily, it was so difficult that it took me more than a week to accomplish which made me halt from following the series after finishing this project.
+			If I have the time, I will complete the series once and for all.
+		</description>
+		<date> ‎May ‎22, ‎2026 </date>
+	</project>
+	
+	<project>
+		<title> Rinblast </title>
+		<description>
+			A lowpoly chibi-style 3D model made to practice simple posing and lighting. She is my first original character I made into a 3D model.
+		</description>
+		<date> ‎September ‎12, ‎2025 </date>
+	</project>
+	
+</projects>
